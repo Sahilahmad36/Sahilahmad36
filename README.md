@@ -136,7 +136,7 @@ and Algorithms</strong>.
        <a href="https://github.com/Sahilahmad36" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <a  href="linkedin.com/in/sahil-ahmad-363406276/" target="_blank">
+    <a  href="https://www.linkedin.com/in/sahil-ahmad-363406276/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
     <a  href="mailto:ahmadsahil3600@gmail.com" target="_blank">
